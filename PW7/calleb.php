@@ -8,7 +8,7 @@
         }
     </style>
 </head>
-<body onload="cargar();">
+<body>
     <div id="main"></div>
     
     <script>
